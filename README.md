@@ -1,4 +1,4 @@
-# Music Player App
+# Ninja Studio Music Player 
 
 This project is a responsive music player app created as part of the Full Stack course at Coding Ninjas. The app provides a user-friendly interface for playing music and includes responsive design to ensure compatibility across different devices and screen sizes.
 
