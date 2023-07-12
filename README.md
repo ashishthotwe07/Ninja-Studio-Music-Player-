@@ -4,7 +4,7 @@ This project is a responsive music player app created as part of the Full Stack 
 
 ## Demo
 
-A live demo of the music player app can be found [here](https://csb-kcqfzh.netlify.app/).
+A live demo of the music player app can be found [here](https://ninjastudio-ashishthotwe07.netlify.app/).
 
 ## Technologies Used
 
